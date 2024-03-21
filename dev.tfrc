@@ -1,0 +1,7 @@
+provider_installation {
+  dev_overrides {
+    "ansible/ansible" = "C:\Users\pps\Desktop\terraform-provider-ansible_1.2.0_windows_amd64"
+  }
+
+  direct {}
+}
